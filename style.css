@@ -1,0 +1,43 @@
+  .class_1
+  {
+    width:95%;
+    height:40%;
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+  font-size: 20px;
+  background-color: blue;
+  }
+  .class_2
+  {
+    width:95%;
+    height:40%;
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+  font-size: 20px;
+  background-color: orangered;
+  }
+  .class_3
+  {
+    width:95%;
+    height:40%;
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+  font-size: 20px;
+  background-color:grey;
+  }
+  .heading_div2
+  {
+    font-size:20px ;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+  body{
+   background-color: aqua;
+
+  }
